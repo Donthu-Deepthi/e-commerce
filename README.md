@@ -22,7 +22,7 @@ A responsive and interactive e-commerce website built using **HTML, CSS, and Jav
 - **Frontend**:  
   - HTML5  
   - CSS3  
-  - JavaScript (Vanilla)
+  - JavaScript
 
 - **Deployment**:  
   - [Vercel](https://vercel.com)
